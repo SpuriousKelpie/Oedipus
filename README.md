@@ -5,7 +5,7 @@ Oedipus was written to determine if it was possible to programmatically find use
 
 Written in PowerShell 3.0 and tested on Windows Server 2012.
 
-# Usage
+## Usage
 
 ```
 Controller.ps1 -Identity (Get-Content .\groups.txt) -Scope [Department|Title]
