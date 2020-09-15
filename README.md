@@ -9,4 +9,4 @@ Controller.ps1 -Identity (Get-Content .\groups.txt) -Scope [Department|Title]
 
 ## Output
 
-![output](https://github.com/SpuriousKelpie/Oedipus/blob/master/reports/output.png)
+![output](https://github.com/SpuriousKelpie/Oedipus/blob/master/output.png)
